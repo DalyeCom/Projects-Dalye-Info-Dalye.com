@@ -1,0 +1,11 @@
+Log file: dalye-web.06416b01-ba3b-4428-8733-eecd20341c3f.log
+  Content:
+app@0.1.0 postinstall
+  prisma generate
+  prisma:info Transaction isolation level is ReadCommitted
+    prisma:info schema loaded from prisma/schema.prisma
+      next build
+      Generating static pages (1/1)
+      Finalizing page optimization...
+      Done in 2.5s.
+      
